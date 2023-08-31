@@ -27,7 +27,7 @@ const Homepage = () => {
   return (<>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <div>
-      <h1> Hey there</h1>
+      <h1> Hey there!</h1>
     </div>
 
 
